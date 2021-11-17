@@ -1,0 +1,7 @@
+HomeWork for nov/22. Monday.SoftSkills
+What are the 3 layers of the aplication?
+1.Presentation Layer(Front end) : is the most used layer where the USERS can interact with applications
+2.The middle layer(Businiess data tier): all the logic of the code is in(The hart)
+3. Data access Layer :  
+Data Tier(Back end)database acces: is where the information processed by the aplicattion is stored and managed
+In a three- tier: the front end Layer cannot comunicate directly  with Back-end Layer .. has to go through Aplication tier
